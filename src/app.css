@@ -1,0 +1,13 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("/Fonts/Flaticon.eot");
+  src: url("/Fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+    url("/Fonts/Flaticon.woff") format("woff"),
+    url("/Fonts/Flaticon.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
